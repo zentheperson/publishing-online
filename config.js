@@ -156,8 +156,8 @@ var config = {
             image: './assets/veg.jpg',
             description: 'There are more wet markets in central areas with a lower population density. <br><br><img src="./assets/popdensity.png" style="height:100%; width:200px;"></img> ',
             location: {
-                center: [103.79289, 1.31612],
-                zoom: 12.56,
+                center: [103.85112, 1.28671],
+                zoom: 12.75,
                 pitch: 58.50,
                 bearing: 0.00,
                 speed: 3,
@@ -282,8 +282,8 @@ var config = {
             image: './assets/fish.jpg',
             description: 'In one of the most densely populated neighbourhood, more HDBs fall within a 400m walking distance of supermarkets compared to wet markets, highlighting potential accessibility disparities. <br><br><img src="./assets/400m WM SM.png" style="height:100%; width:200px;"></img> ',
             location: {
-                center: [103.74519, 1.39004],
-                zoom: 13.76,
+                center: [103.75389, 1.38857],
+                zoom: 13.99,
                 pitch: 28,
                 bearing: -56.44,
                 speed: 2,
